@@ -1,0 +1,3 @@
+[submodule "Patient-Readmission-Prediction"]
+	path = Patient-Readmission-Prediction
+	url = https://huggingface.co/prabinpanta0/Patient-Readmission-Prediction.git
